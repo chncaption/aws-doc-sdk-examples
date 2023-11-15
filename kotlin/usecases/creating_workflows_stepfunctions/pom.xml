@@ -116,7 +116,7 @@
         <dependency>
             <groupId>aws.smithy.kotlin</groupId>
             <artifactId>http-jvm</artifactId>
-            <version>0.4.0-alpha</version>
+            <version>0.28.2</version>
         </dependency>
         <dependency>
             <groupId>aws.smithy.kotlin</groupId>
