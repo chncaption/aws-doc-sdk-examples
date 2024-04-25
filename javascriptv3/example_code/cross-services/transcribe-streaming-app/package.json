@@ -22,7 +22,7 @@
     "stream": "0.0.2",
     "microphone-stream": "^6.0.1",
     "process": "^0.11.10",
-    "workbox-webpack-plugin": "^6.5.4"
+    "workbox-webpack-plugin": "^7.1.0"
   },
   "devDependencies": {
     "webpack": "^5.74.0",
