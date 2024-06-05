@@ -1286,7 +1286,7 @@ GEM
       stringio
       time
       uri
-    openssl (3.0.1)
+    openssl (3.2.0)
     parallel (1.22.1)
     parser (3.1.2.1)
       ast (~> 2.4.1)
@@ -1349,13 +1349,14 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   aws-sdk
   cli-ui
   json
   open-uri
-  openssl
+  openssl (>= 3.2.0)
   pp
   rake
   rspec
@@ -1369,4 +1370,4 @@ RUBY VERSION
    ruby 3.1.2p20
 
 BUNDLED WITH
-   2.3.17
+   2.3.26
