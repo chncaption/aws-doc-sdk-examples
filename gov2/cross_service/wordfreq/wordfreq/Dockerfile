@@ -1,4 +1,4 @@
-FROM golang AS builder
+FROM golang:1.22.4 AS builder
 COPY . src/
 RUN cd src && ls && GOPROXY=direct go build -o ../bin/worker ./cmd/worker/
 
