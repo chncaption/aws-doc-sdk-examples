@@ -10,7 +10,7 @@
     "test": "yarn node --experimental-vm-modules $(yarn bin jest)"
   },
   "dependencies": {
-    "@aws-sdk/client-lambda": "^3.168.0",
+    "@aws-sdk/client-lambda": "^3.529.0",
     "@types/archiver": "^5.3.1",
     "archiver": "^5.3.1",
     "ramda": "^0.28.0",
