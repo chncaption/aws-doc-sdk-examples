@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-cognito-identity": "^3.32.0",
-    "@aws-sdk/client-dynamodb": "^3.32.0",
+    "@aws-sdk/client-dynamodb": "^3.621.0",
     "@aws-sdk/credential-provider-cognito-identity": "^3.32.0",
     "@aws-sdk/client-sns": "^3.32.0",
     "@aws-sdk/client-s3": "^3.32.0",
