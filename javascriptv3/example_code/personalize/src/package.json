@@ -12,7 +12,7 @@
   "dependencies": {
     "@aws-sdk/client-personalize": "^3.53.0",
     "@aws-sdk/client-personalize-events": "^3.53.0",
-    "@aws-sdk/client-personalize-runtime": "^3.53.0",
+    "@aws-sdk/client-personalize-runtime": "^3.529.0",
     "fs": "^0.0.1-security"
   },
   "devDependencies": {
