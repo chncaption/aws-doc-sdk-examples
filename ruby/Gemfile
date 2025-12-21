@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby "3.1.2"
 
-gem "aws-sdk"
+gem "aws-sdk", ">= 3.2.0"
 gem "cli-ui"
 gem "json"
 gem "openssl"
